@@ -10,5 +10,3 @@ UF varchar(2) not null,
 DATA_CADASTRO date not null,
 PRIMARY KEY(COD)
 );
-
-select * from clientes;
